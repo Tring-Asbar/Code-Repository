@@ -1,5 +1,6 @@
 public class Sample{
     public static void main(String[] args){
-        System.out.print("Hello!, Tringapps Interns");
+        System.out.print("Hello!, Tringapps");
+        System.out.println("Thanks for giving me this opportunity");
     }
 }
